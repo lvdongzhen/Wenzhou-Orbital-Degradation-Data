@@ -7,8 +7,8 @@ The related data and code are accessible under the Creative Commons Attribution-
 GitHub: https://github.com/lvdongzhen   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu   <br>
-Onedrive: https://1drv.ms/f/c/A91851F523720B74/EqH2G0ZGATNKnDyzc9azhsEB3D0vqMvF4OjHUesblDaVLQ?e   <br>
-Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpvzmgd (PWD:c9fb)   <br>
+Onedrive: 待更新   <br>
+Torrent(种子下载)：待更新  <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Orbital Degradation Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. If necessary, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details.
@@ -43,8 +43,8 @@ WeChat ID: LyuDongzhen   <br>
 GitHub: https://github.com/lvdongzhen   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu   <br>
-Onedrive: https://1drv.ms/f/c/A91851F523720B74/EqH2G0ZGATNKnDyzc9azhsEB3D0vqMvF4OjHUesblDaVLQ?e   <br>
-Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpvzmgd (PWD:c9fb)   <br>
+Onedrive: 待更新   <br>
+Torrent(种子下载)：待更新  <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”（英文版本为 "Wenzhou Orbital Degradation Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。如有需要，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
