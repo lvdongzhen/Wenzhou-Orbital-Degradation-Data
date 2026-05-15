@@ -2,7 +2,7 @@
 # License of Wenzhou Orbital Degradation Data
 
 ***Accessibility and Attribution***  <br>
-The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Orbital Degradation Data" and cite the source article: **Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations** <br>
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Orbital Degradation Data" and cite the source article: **** <br>
 
 ***Data Storage Location***  <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
