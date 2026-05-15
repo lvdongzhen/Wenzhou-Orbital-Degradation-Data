@@ -49,7 +49,7 @@ Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A
 # WZU轨道式电池退化数据的许可协议
 
 ***数据访问和署名***  <br>
-相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”，并引用以下来源文章：“Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations” <br>
+相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”，并引用以下来源文章：“Dongzhen Lyu, et al” <br>
 
 ***数据存储位置***  <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
