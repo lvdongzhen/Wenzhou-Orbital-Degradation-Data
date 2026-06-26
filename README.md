@@ -1,10 +1,11 @@
-***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
+***Available all at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
 # License of Wenzhou Orbital Degradation Data
 
 ***Accessibility and Attribution***  <br>
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Orbital Degradation Data" and cite the source article: Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Variable Operating Conditions. IEEE Transactions on Industrial Informatics, 2026.  <br>
 
 ***Data Storage Location***  <br>
+Kaggle at: https://www.kaggle.com/dongzhenlyu/datasets <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
 ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
 X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
@@ -54,6 +55,7 @@ Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”，并引用以下来源文章：“Dongzhen Lyu, et al” <br>
 
 ***数据存储位置***  <br>
+Kaggle at: https://www.kaggle.com/dongzhenlyu/datasets <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
 ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
 X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
