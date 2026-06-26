@@ -1,8 +1,8 @@
 ***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
-# License of Wenzhou *O* Degradation Data
+# License of Wenzhou Orbital Degradation Data
 
 ***Accessibility and Attribution***  <br>
-The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou *O* Degradation Data" and cite the source article: **** <br>
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Orbital Degradation Data" and cite the source article: Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Variable Operating Conditions. IEEE Transactions on Industrial Informatics, 2026.  <br>
 
 ***Data Storage Location***  <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
@@ -12,7 +12,7 @@ OneDrive download at ( https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg ) <br>
 Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x) <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
-When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou *O* Degradation Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. If necessary, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details.
+When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Orbital Degradation Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. If necessary, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details.
 
 ***Commercial Use***  <br>
 Commercial use of the relevant data is permitted in compliance with this agreement. However, when using the related code for commercial purposes, please ensure that you contact Dr. Dongzhen Lyu in advance to obtain patent permission and technical support.
@@ -35,10 +35,12 @@ Email: lvdongzhen@hrbeu.edu.cn   <br>
 WeChat ID: LyuDongzhen   <br>
 
 ***Additional***  <br>
-If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “Wenzhou Randomized Battery Data”, “Wenzhou Cold Curse Battery Data”, “Wenzhou Sodium-ion Battery Degradation Data”, “Wenzhou Pack Degradation Data”, “Wenzhou *O* Degradation Data” and “Wenzhou Symmetry Degradation Data” as appropriate. All available at ( https://github.com/lvdongzhen )   <br>
+If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “Wenzhou Randomized Battery Data”, “Wenzhou Cold Curse Battery Data”, “Wenzhou Sodium-ion Battery Degradation Data”, “Wenzhou Pack Degradation Data”, “Wenzhou Orbital Degradation Data” and “Wenzhou Symmetry Degradation Data” as appropriate. All available at ( https://github.com/lvdongzhen ) <br>
 
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code:   <br>
 Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science, 2024.   <br>
+Dongzhen Lyu, et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. IEEE Transactions on Industrial Electronics, 2026.   <br>
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Variable Operating Condition. IEEE Transactions on Industrial Informatics, 2026.   <br>
 Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
 Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
 Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
@@ -59,7 +61,7 @@ OneDrive download at ( https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg ) <br>
 Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x) <br>
 
 ***署名-禁止演绎要求***  <br>
-在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”（英文版本为 "Wenzhou *O* Degradation Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。如有需要，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
+在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU轨道式电池退化数据”（英文版本为 "Wenzhou Orbital Degradation Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。如有需要，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
 
 ***商用条款***  <br>
 在遵守本协议相关内容的情况下可以对相关数据进行商业使用，但对相关代码进行商用时请务必提前联系吕东祯博士本人以获得专利许可和技术支持。
